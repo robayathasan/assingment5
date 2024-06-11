@@ -1,0 +1,13 @@
+.inputfield{
+    display: flex;
+    justify-content: center;
+}
+.inputfieldsize{
+    height: 25px;
+    width: 70px;
+}
+#convert{
+   height: 23px;
+   padding: 2px;
+   
+}
