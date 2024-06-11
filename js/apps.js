@@ -31,10 +31,9 @@ document.getElementById('rectangle-btn').addEventListener('click',function(){
 
     const triangleResult = inputbNumber*inputhNumber;
 
-    const calculatedarea = document.getElementById('resutlarea2');
+    const calculatedarea = document.getElementById('resutlarea3');
     calculatedarea.innerText=triangleResult;
 
-    
 
 })
 
